@@ -6,7 +6,6 @@
 - :o: Works on `Discord`, `DiscordPTB`, `DiscordCanary` & BetterDiscord
 - :shield: Good randomazition for max security
 - :robot: Auto check and Install, Uninstall dependencies like Node.js
-- :robot: Auto elevate permission
 - :bulb: Dummy friendly
 - :spaghetti: Spaghetti code XD
 
