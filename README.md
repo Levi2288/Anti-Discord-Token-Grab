@@ -1,27 +1,33 @@
 # Anti-Discord-Token-Grab
 
 
-###Features:
+### Features
 
-- Works on `Discord`, `DiscordPTB`, `DiscordCanary` & BetterDiscord
-- Good randomazition 
-- Auto check and Install, Uninstall dependencies like Node.js
-- Auto elevate permission
-- Dummy friendly
+- :o: Works on `Discord`, `DiscordPTB`, `DiscordCanary` & BetterDiscord
+- :shield: Good randomazition for max security
+- :robot: Auto check and Install, Uninstall dependencies like Node.js
+- :robot: Auto elevate permission
+- :bulb: Dummy friendly
 
 ### How it works?
 
 Most of the token grabbers read out your token from `%APPDATA%/discord/Local-Storage` or from the data stored in your browser (same method btw just reads out the file and search for the token)
 So this program changes the discord directory to a randomly generated one so it can be harder/impossible for grabbers to steal your data.
 
-THIS TOOL WILL WORK WITH MOST OF THE GRABBERS BUT OFC THERE ARE EXCEPTIONS, ITS NOT GONNA PROTECT U FROM GOOD TOOLS THAT USE DIFFERENT.
-But most public grabbers use the method listed above so i can help a LOT.
+
+
+### Warning
+
+:bangbang:THIS TOOL WILL WORK WITH MOST OF THE GRABBERS BUT OFC THERE ARE EXCEPTIONS,:bangbang:
+
+:bangbang:ITS NOT GONNA PROTECT U FROM GOOD TOOLS THAT USE DIFFERENT METHODS.:bangbang:
+
+But most public grabbers use the method listed above so it can help a f LOT.
 
 The original main idea was from [zimzika](https://github.com/zimzika), he was the one who came up with this solution i just improved hes code and added a bunch of things to make it better
 
-#### If u dont know how to use programs like this its not my prob its your responsibility
-
-## How to use?
+## How to use? Read it!
+#### If u dont know how to use programs like this its not my prob its your responsibility :angry:
 
 ### Using Python
 - Install Python 3.9 or above
