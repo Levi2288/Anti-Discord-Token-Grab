@@ -41,3 +41,6 @@ The original main idea was from [zimzika](https://github.com/zimzika), he was th
 ### Using Released Program.
 - Download the latest release ([Download](https://github.com/Levi2288/Anti-Discord-Token-Grab/archive/refs/heads/master.zip))
 - Run the Program. Make sure the `setup/` folder is present
+- Choose the Discord u wish to protect
+- Wait for the program to do its thing
+- :tada: Your discord is protected
