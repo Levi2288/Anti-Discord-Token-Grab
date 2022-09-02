@@ -45,3 +45,19 @@ The original main idea was from [zimzika](https://github.com/zimzika), he was th
 - Choose the Discord u wish to protect
 - Wait for the program to do its thing
 - :tada: Your discord is protected
+
+## Problems
+
+if the process fails with one of the following errors:
+  - `This file is not original skipping...`
+  - `Extract error! Maybe already protected?`
+
+- Uninstall the Discord that failed protection.
+ 
+- Delete the following folders:
+  - `appdata/Roaming/discord` or `appdata/Roaming/discordptb` or `appdata/Roaming/discordcanary`
+  - `appdata/Local/discord` or `appdata/Local/discordptb` or `appdata/Local/discordcanary`
+  - (the folders depends on the discord you ininstalling)
+  
+- Download the Discord installer [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86), [DiscordPTB](https://discordapp.com/api/download/ptb?platform=win), [DiscordCanary](https://discordapp.com/api/download/canary?platform=win)
+-Install Discord then try again protecting
