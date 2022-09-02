@@ -1,5 +1,6 @@
 # Anti-Discord-Token-Grab
 
+pls ⭐ the repo
 
 ### Features
 
