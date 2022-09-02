@@ -8,6 +8,7 @@
 - :robot: Auto check and Install, Uninstall dependencies like Node.js
 - :robot: Auto elevate permission
 - :bulb: Dummy friendly
+- :spaghetti: Spaghetti code XD
 
 ### How it works?
 
