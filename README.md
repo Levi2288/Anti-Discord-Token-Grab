@@ -48,6 +48,7 @@ The original main idea was from [zimzika](https://github.com/zimzika), he was th
 
 ## Problems
 
+#### Failed protecting 
 if the process fails with one of the following errors:
   - `This file is not original skipping...`
   - `Extract error! Maybe already protected?`
@@ -61,3 +62,8 @@ if the process fails with one of the following errors:
   
 - Download the Discord installer [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86), [DiscordPTB](https://discordapp.com/api/download/ptb?platform=win), [DiscordCanary](https://discordapp.com/api/download/canary?platform=win)
 -Install Discord then try again protecting
+
+
+#### Node Not Found
+
+-Install Node.js from [Node.js](https://nodejs.org/en/download/)
