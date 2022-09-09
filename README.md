@@ -4,7 +4,7 @@ pls ⭐ the repo
 
 ### Features
 
-- :o: Works on `Discord`, `DiscordPTB`, `DiscordCanary` & BetterDiscord
+- :o: Works on `Discord`, `DiscordPTB`, `DiscordCanary`, also `BetterDiscord` support.
 - :shield: Good randomazition for max security
 - :robot: Auto check and Install, Uninstall dependencies like Node.js
 - :bulb: Dummy friendly
