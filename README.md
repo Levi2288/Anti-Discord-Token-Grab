@@ -53,12 +53,13 @@ if the process fails with one of the following errors:
   - `This file is not original skipping...`
   - `Extract error! Maybe already protected?`
 
-- Uninstall the Discord that failed protection.
+- Start the program as **Administrator**
+- if still not working Uninstall the Discord that failed protection.
  
 - Delete the following folders:
   - `appdata/Roaming/discord` or `appdata/Roaming/discordptb` or `appdata/Roaming/discordcanary`
   - `appdata/Local/discord` or `appdata/Local/discordptb` or `appdata/Local/discordcanary`
-  - (the folders depends on the discord you ininstalling)
+  - (the folders depends on the discord you uninstalling)
   
 - Download the Discord installer [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86), [DiscordPTB](https://discordapp.com/api/download/ptb?platform=win), [DiscordCanary](https://discordapp.com/api/download/canary?platform=win)
 -Install Discord then try again protecting
